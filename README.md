@@ -1,4 +1,4 @@
-# test_svg_detect
+# Draw App
 
 A new Flutter project.
 
